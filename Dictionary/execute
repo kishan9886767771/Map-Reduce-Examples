@@ -1,0 +1,1 @@
+ hadoop jar niit1.jar assignments/SentimentAnalysis /niit/AFINN.txt /niit/test1.txt /niit/output12

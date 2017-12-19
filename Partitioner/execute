@@ -1,0 +1,2 @@
+hadoop jar niit1.jar assignments/PartitionByAge /niit/emp.csv /niit/Partitioner
+

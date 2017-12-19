@@ -1,0 +1,1 @@
+hadoop jar niit1.jar chainmapreduce/TotTransPerProf /niit/custs.txt /niit/txns1.txt /niit/mr

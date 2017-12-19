@@ -1,0 +1,4 @@
+1)hadoop jar niit1.jar ImageProcessing/BinaryFilesToHadoopSequenceFile /seqinput.txt /niit/output112
+
+2)hadoop jar niit1.jar ImageProcessing/ImageDriver /niit/output112/p* /niit/output113
+

@@ -1,0 +1,4 @@
+hadoop jar niit1.jar ConvSeqText/TextToSequence /niit/student /niit/binary1
+
+hadoop jar niit1.jar ConvSeqText/SequenceToText /niit/binary1/p* /niit/binary2
+

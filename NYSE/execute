@@ -1,0 +1,2 @@
+ hadoop jar niit1.jar NYSE/StockPercentChangeDriver /niit/NYSE.csv /niit/NYSEOUT
+

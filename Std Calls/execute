@@ -1,0 +1,2 @@
+hadoop jar niit1.jar niit_162/STDCalls /niit/phone.txt /niit/STDCalls
+
